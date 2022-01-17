@@ -1,0 +1,507 @@
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_1.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: EITC does not include all dependents.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TPD dependents regardless of age.
+WARNING: A penalty is applied to a retirement account withdrawl.  Check if there is a valid exemption from the early withdrawl penalty that can be added.
+WARNING: Check if the client is eligible for the Home Heating Credit.
+WARNING: An HSA contributaion deduction is included on Schedule 1 line 12.  Ensure this contributaiton was not made by the client via payroll deduction (i.e. W-2, Box 12, Code W).
+WARNING: An HSA account withdrawl (Form 8889 line 15) are not entered as "qualified" and therefore a penalty was applied.  Check if the HSA withdrawls should have been qualified.
+WARNING: Other income is included on Fed Schedule 1 Line 8.  If this is scholarship income and it is unrestricted, verify Education Tax Credits are maximized.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_10.pdf
+====================================================== 
+WARNING: No EITC.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TBD dependents regardless of age
+WARNING: Verify that all dependents under age 17 eligable for the Child Tax Credit are included in this credit
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_11.pdf
+====================================================== 
+WARNING: No EITC.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TBD dependents regardless of age
+WARNING: Verify that all dependents under age 17 eligable for the Child Tax Credit are included in this credit
+WARNING: Check that subsidized/service fee rent paid (entire year) is correct on MI1040CR Line 55.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_12.pdf
+====================================================== 
+WARNING: No EITC.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TBD dependents regardless of age
+WARNING: Verify that all dependents under age 17 eligable for the Child Tax Credit are included in this credit
+WARNING: Check that subsidized/service fee rent paid (entire year) is correct on MI1040CR Line 55.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_13.pdf
+====================================================== 
+WARNING: No EITC.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TBD dependents regardless of age
+WARNING: Verify that all dependents under age 17 eligable for the Child Tax Credit are included in this credit
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_14.pdf
+====================================================== 
+Error: Check if there are additional Total Household Resources (THR) that need to be included or if the return should be paper filed with a letter explaining rent vs. THR.
+WARNING: Check that rent paid (entire year) is correct on MI1040CR Line 53.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_15.pdf
+====================================================== 
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_16.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Check if the client insures a car or pays out-of-pocket insurance expenses (such as supplemental Medicare plan)
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_17.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Check to ensure that Medicare premiums included on the SSA-1099 are not included in line MI-1040CR line 31
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_18.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_19.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_2.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+ERROR: If HPTC includes Service Fee Housing, do not select Subsidized Housing even if rent is subsidized.
+WARNING: Check to ensure that Medicare premiums included on the SSA-1099 are not included in MI-1040CR line 31
+WARNING: EITC does not include all dependents.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TPD dependents regardless of age.
+WARNING: A penalty is applied to a retirement account withdrawl.  Check if there is a valid exemption from the early withdrawl penalty that can be added.
+WARNING: An HSA contributaion deduction is included on Schedule 1 line 12.  Ensure this contributaiton was not made by the client via payroll deduction (i.e. W-2, Box 12, Code W).
+WARNING: An HSA account withdrawl (Form 8889 line 15) are not entered as "qualified" and therefore a penalty was applied.  Check if the HSA withdrawls should have been qualified.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Other income is included on Fed Schedule 1 Line 8.  If this is scholarship income and it is unrestricted, verify Education Tax Credits are maximized.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_20.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Federal return is set to PAPER.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_21.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Federal return is set to PAPER.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_22.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_23.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Check if client should file as Head of Household
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_24.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Check if the client is eligible for the Home Heating Credit.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_25.pdf
+====================================================== 
+WARNING: A person on the return is 66 or older and a MI disablility exeption is entered.  Check if one of the following are included on the return: 1) an eligable person younger than 66 or 2) a person older than 66 that is deaf, blind, hemiplegic, paraplegic, or quadriplegic.
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_26.pdf
+====================================================== 
+ERROR: Client born before 1946 and has retirement income that can be subtracted from MI income. Check that the MI subtractions from income for retirement income are entered correctly.
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Payment voucher(s) included in the return.  Check "Payment Voucher" on client ticket to indicate this needs to be sent to the client.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_27.pdf
+====================================================== 
+ERROR: Client born before 1946. Check that all MI retirement income subtractions are entered correctly.
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Payment voucher(s) included in the return.  Check "Payment Voucher" on client ticket to indicate this needs to be sent to the client.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_28.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_29.pdf
+====================================================== 
+WARNING: Verify client wants to use direct debit to pay Federal and Michigan taxes.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_3.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check to ensure that Medicare premiums included on the SSA-1099 are not included in MI-1040CR line 31
+WARNING: EITC does not include all dependents.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TPD dependents regardless of age.
+WARNING: A penalty is applied to a retirement account withdrawl.  Check if there is a valid exemption from the early withdrawl penalty that can be added.
+WARNING: An HSA contributaion deduction is included on Schedule 1 line 12.  Ensure this contributaiton was not made by the client via payroll deduction (i.e. W-2, Box 12, Code W).
+WARNING: An HSA account withdrawl (Form 8889 line 15) are not entered as "qualified" and therefore a penalty was applied.  Check if the HSA withdrawls should have been qualified.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Other income is included on Fed Schedule 1 Line 8.  If this is scholarship income and it is unrestricted, verify Education Tax Credits are maximized.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_30.pdf
+====================================================== 
+WARNING: Payment voucher(s) included in the return.  Check "Payment Voucher" on client ticket to indicate this needs to be sent to the client.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_31.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Payment voucher(s) included in the return.  Check "Payment Voucher" on client ticket to indicate this needs to be sent to the client.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_32.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check if 2019 earned income can be used to generate a larger EIC
+Error:  Client is a Michigan Non-Resident and therefore not eligable for the Home Heating Credit
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_33.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check if 2019 earned income can be used to generate a larger EIC
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_34.pdf
+====================================================== 
+WARNING: Check if the client insures a car or pays out-of-pocket insurance expenses (such as supplemental Medicare plan)
+WARNING: Check if 2019 earned income can be used to generate a larger EIC
+WARNING: Check if the client is eligible for the Home Heating Credit.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_35.pdf
+====================================================== 
+ERROR: Client was not a Michigan resident for at least 6 months and therefore is not eligible for the Homestead Property Tax Credit
+WARNING: Check if the client insures a car or pays out-of-pocket insurance expenses (such as supplemental Medicare plan)
+WARNING: Check if 2019 earned income can be used to generate a larger EIC
+WARNING: Check if the client is eligible for the Home Heating Credit.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_36.pdf
+====================================================== 
+WARNING: Check if 2019 earned income can be used to generate a larger EIC
+WARNING: Check if the client is eligible for the Home Heating Credit.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_37.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Check if 2019 earned income can be used to generate a larger EIC
+WARNING: Check if the client is eligible for the Home Heating Credit.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_38.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Check if 2019 earned income can be used to generate a larger EIC
+WARNING: Check if the client is eligible for the Home Heating Credit.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_39.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Scholarship income is included on Fed 1040 Line 1.  If scholarship is unrestricted, verify Education Tax Credits are maximized
+WARNING: Education Credit is included.  Verify tax benefit is maximized (unrestricted scholarships; American Opt Credit vs. Lifetime Learn Credit vs. Tuition & Fees Ded).
+WARNING: Excessive advance premium tax credit repayment on Schedule 2 line 2.  Verify enteries on Form 8962 are correct and inform client.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_4.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check to ensure that Medicare premiums included on the SSA-1099 are not included in MI-1040CR line 31
+WARNING: EITC does not include all dependents.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TPD dependents regardless of age.
+WARNING: A penalty is applied to a retirement account withdrawl.  Check if there is a valid exemption from the early withdrawl penalty that can be added.
+WARNING: Check that subsidized/service fee rent paid (entire year) is correct on MI1040CR Line 55.
+WARNING: An HSA contributaion deduction is included on Schedule 1 line 12.  Ensure this contributaiton was not made by the client via payroll deduction (i.e. W-2, Box 12, Code W).
+WARNING: An HSA account withdrawl (Form 8889 line 15) are not entered as "qualified" and therefore a penalty was applied.  Check if the HSA withdrawls should have been qualified.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Other income is included on Fed Schedule 1 Line 8.  If this is scholarship income and it is unrestricted, verify Education Tax Credits are maximized.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_40.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Scholarship income is included on Fed 1040 Line 1.  If scholarship is unrestricted, verify Education Tax Credits are maximized
+WARNING: Excessive advance premium tax credit repayment on Schedule 2 line 2.  Verify enteries on Form 8962 are correct and inform client.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+WARNING: Payment voucher(s) included in the return.  Check "Payment Voucher" on client ticket to indicate this needs to be sent to the client.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_41.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Scholarship income is included on Fed 1040 Line 1.  If scholarship is unrestricted, verify Education Tax Credits are maximized
+WARNING: Education Credit is included.  Verify tax benefit is maximized (unrestricted scholarships; American Opt Credit vs. Lifetime Learn Credit vs. Tuition & Fees Ded).
+WARNING: Excessive advance premium tax credit repayment on Schedule 2 line 2.  Verify enteries on Form 8962 are correct and inform client.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+WARNING: Payment voucher(s) included in the return.  Check "Payment Voucher" on client ticket to indicate this needs to be sent to the client.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_42.pdf
+====================================================== 
+WARNING: Check if client is eligible for Homestead Property Tax Credit
+WARNING: Scholarship income is included on Fed 1040 Line 1.  If scholarship is unrestricted, verify Education Tax Credits are maximized
+WARNING: Education Credit is included.  Verify tax benefit is maximized (unrestricted scholarships; American Opt Credit vs. Lifetime Learn Credit vs. Tuition & Fees Ded).
+WARNING: Excessive advance premium tax credit repayment on Schedule 2 line 2.  Verify enteries on Form 8962 are correct and inform client.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+WARNING: Payment voucher(s) included in the return.  Check "Payment Voucher" on client ticket to indicate this needs to be sent to the client.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_5.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check to ensure that Medicare premiums included on the SSA-1099 are not included in MI-1040CR line 31
+WARNING: Rent payments entered in both Parts 4 and 5 for MI-1040CR. Verify this is correct.
+WARNING: EITC does not include all dependents.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TPD dependents regardless of age.
+WARNING: A penalty is applied to a retirement account withdrawl.  Check if there is a valid exemption from the early withdrawl penalty that can be added.
+WARNING: Check that subsidized/service fee rent paid (entire year) is correct on MI1040CR Line 55.
+WARNING: An HSA contributaion deduction is included on Schedule 1 line 12.  Ensure this contributaiton was not made by the client via payroll deduction (i.e. W-2, Box 12, Code W).
+WARNING: An HSA account withdrawl (Form 8889 line 15) are not entered as "qualified" and therefore a penalty was applied.  Check if the HSA withdrawls should have been qualified.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Other income is included on Fed Schedule 1 Line 8.  If this is scholarship income and it is unrestricted, verify Education Tax Credits are maximized.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_6.pdf
+====================================================== 
+WARNING: Check if client is eligible for Michigan disability exemption
+WARNING: Check to ensure that Medicare premiums included on the SSA-1099 are not included in MI-1040CR line 31
+WARNING: EITC does not include all dependents.  Verify that all eligable dependents are included in the EIC credit.  Eligable dependents could include dependents under age 19, dependents under age 24 that are full-time students, and TPD dependents regardless of age.
+WARNING: A penalty is applied to a retirement account withdrawl.  Check if there is a valid exemption from the early withdrawl penalty that can be added.
+WARNING: An HSA contributaion deduction is included on Schedule 1 line 12.  Ensure this contributaiton was not made by the client via payroll deduction (i.e. W-2, Box 12, Code W).
+WARNING: An HSA account withdrawl (Form 8889 line 15) are not entered as "qualified" and therefore a penalty was applied.  Check if the HSA withdrawls should have been qualified.
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Other income is included on Fed Schedule 1 Line 8.  If this is scholarship income and it is unrestricted, verify Education Tax Credits are maximized.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_7.pdf
+====================================================== 
+WARNING: Check to ensure that Medicare premiums included on the SSA-1099 are not included in MI-1040CR line 31
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_8.pdf
+====================================================== 
+WARNING: Check if the client insures a car or pays out-of-pocket insurance expenses (such as supplemental Medicare plan)
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
+Automated Check Tool
+RESULTS FOR: TOOL CHECK
+Filename: tests/data/2020_Returns/Return_9.pdf
+====================================================== 
+WARNING: Michigan return is set to PAPER.  This could also indicate that the "E-file" section in TaxSlayer has not been completed.
+WARNING: Self-employment expenses are not subtracted from income.  Verify client did not have any expenses.
+
+
+
+
