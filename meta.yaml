@@ -1,0 +1,20 @@
+{% set name = "taxlib" %}
+{% set version = "1.0.1" %}
+
+package:
+  name: {{ name|lower }}
+  version: {{ version }}
+
+source:
+  git_url: https://github.com/hessakh/taxToolLib
+
+requirements:
+  host:
+    - python
+    - pip
+    - conda
+  run:
+    - pandas==1.0.5
+    - xlrd==2.0.1
+    - poppler==0.90.1    # Conda-specific
+    - pytest==6.2.5
